@@ -1,0 +1,16 @@
+html {
+    text-align: center;
+}
+
+html {
+    background-color:#f5f5dc;
+}
+
+img {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
